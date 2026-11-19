@@ -1,6 +1,7 @@
 # kg_osi_26
 
-Hackathon project to extract material formulas, synthesis, and experimental details from papers, using PL descriptions as ground truth.
+Hackathon project to extract material formulas, synthesis, and experimental details from papers, using PL descriptions as ground truth. 
+Submission that gained a "Judge's Star" in the 2026 OSI Hackathon, originally posted [on the hackathon website](https://scientificintelligence.org/campaigns/osi-hackathon-2026/submissions/39). 
 
 | File | Purpose |
 | --- | --- |
