@@ -1,9 +1,11 @@
 # kg_osi_26
 
-Hackathon project. Self-improving agentic loops that score LLM-extracted literature features against a measured property, here the PL peak of hybrid perovskites.
+Hackathon submission that won a "Judge's Star" in the 2026 OSI Hackathon (in total 25 out of 194 submissions won one). 
+
+Self-improving agentic loops that score LLM-extracted literature features against a measured property, here the PL peak of hybrid perovskites.
 Knowledge graphs built by AI agents rarely come with ground truth, so nothing tells the agent whether its extractions are any good, and it has nothing to improve against. SALEM borrows one trusted value per record, the curated PL peak, and turns the GP’s held-out error into a score the agent can minimize.
 
-Submission that won a "Judge's Star" in the 2026 OSI Hackathon (25 out of 194 submissions won one). Originally posted [on the hackathon website](https://scientificintelligence.org/campaigns/osi-hackathon-2026/submissions/39). 
+Originally posted [on the hackathon website](https://scientificintelligence.org/campaigns/osi-hackathon-2026/submissions/39). 
 Watch our [explainer video](https://www.youtube.com/watch?v=qoN32FKbgXc) and try our demos ([1](https://huggingface.co/spaces/svenpvoigt/KG-GP-Condition_OSI) and [2](https://huggingface.co/spaces/svenpvoigt/KG-GP-Embed)) on Hugging Face.
 Special thanks to my teammates Sven Voigt, Defne Circi, Xiaoquan Liu, MOHD ZAKI, Zhanzhao Li and Eltjo Mante.
 
